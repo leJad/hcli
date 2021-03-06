@@ -1,4 +1,4 @@
-const HackChat = require("/home/jeff/Desktop/hcli/src/hack.chat.js");
+const HackChat = require("/src/hack.chat.js");
 const readline = require("readline").createInterface({
   input: process.stdin,
   output: process.stdout,
